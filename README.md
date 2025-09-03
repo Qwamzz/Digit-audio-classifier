@@ -1,6 +1,9 @@
 
 # LLM Coding Challenge – Digit Classification from Audio
 
+<img width="1293" height="587" alt="image" src="https://github.com/user-attachments/assets/64506dc2-6423-4fe9-918d-54cc49d5f6ce" />
+
+
 ## Challenge Context
 This project is a response to the LLM Coding Challenge: build a lightweight prototype that listens to spoken digits (0–9) and predicts the correct number. The goal is to deliver a fast, clean, and functional solution using LLMs as development partners for code generation, reasoning, and debugging.
 
@@ -117,4 +120,5 @@ audio-classification/
 
 ## Contact
 For questions, reach out via GitHub Issues or email.
+
 
