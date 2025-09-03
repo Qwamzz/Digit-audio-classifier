@@ -7,7 +7,7 @@ This project is a response to the LLM Coding Challenge: build a lightweight prot
 **Bonus:** Microphone integration for real-time prediction and robustness testing.
 
 ## Dataset
-We use the [Free Spoken Digit Dataset (FSDD)](https://huggingface.co/datasets/mteb/free-spoken-digit-dataset/viewer?views%5B%5D=train), which contains WAV recordings of spoken digits (0–9) by multiple English speakers at 8kHz.
+Used the [Free Spoken Digit Dataset (FSDD)](https://huggingface.co/datasets/mteb/free-spoken-digit-dataset/viewer?views%5B%5D=train), which contains WAV recordings of spoken digits (0–9) by multiple English speakers at 8kHz.
 
 ## Approach & Architecture
 1. **Feature Extraction:**
@@ -117,3 +117,4 @@ audio-classification/
 
 ## Contact
 For questions, reach out via GitHub Issues or email.
+
